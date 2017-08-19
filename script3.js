@@ -34,6 +34,7 @@ var silnik2 = new silnik("benzyna", 102, "VAG", "FSI 2.2", 202);
 var silnik3 = new silnik("benzyna", 103, "VAG", "FSI 2.3", 203);
 var silnik4 = new silnik("benzyna", 104, "VAG", "FSI 2.4", 204);
 var silnik5 = new silnik("benzyna", 105, "VAG", "FSI 2.5", 205);
+/*
 
 var samochod1 = new pojazd("Kamil P", 1991, "volvo", "v10", 9991, 301, 200001, 7.1, silnik1);
 var samochod2 = new pojazd("Krzysiek P", 1992, "volvo", "v20", 9992, 302, 200002, 7.2, silnik2);
@@ -42,7 +43,8 @@ var samochod4 = new pojazd("qwe zxc", 1994, "volvo", "v40", 9994, 304, 200004, 7
 var samochod5 = new pojazd("rty fghfgh", 1995, "volvo", "v50", 9995, 305, 200005, 7.5, silnik5);
 
 var tablicaSamochodow = [samochod1, samochod2, samochod3, samochod4, samochod5];
-
+*/
+var nowe_cos_tam = 6758765786578658756;
 //b) Napisz funkcje, ktora zwroci stringa opisujacego najmocniejsze auto z tablicy: "<imie> <nazwisko> jest wlascicielem najmocniejszego auta - <marka> <model>"
 
 
